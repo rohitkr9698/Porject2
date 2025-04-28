@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-This course is being  teached by Sharda Ma'am.
+This course is being  taught by Sharda Ma'am.
